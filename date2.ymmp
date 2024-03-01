@@ -1,0 +1,791 @@
+﻿{
+  "FilePath": "C:\\Users\\tusima kento\\Documents\\GitHub\\aipy\\ymmp\\date2.ymmp",
+  "Timeline": {
+    "VideoInfo": {
+      "FPS": 30,
+      "Hz": 48000,
+      "Width": 1920,
+      "Height": 1080
+    },
+    "VerticalLine": {
+      "IsEnabled": false,
+      "StartFrame": 0,
+      "LineType": "BPM",
+      "Line": {
+        "$type": "YukkuriMovieMaker.Project.VerticalBPMLine, YukkuriMovieMaker.Plugin",
+        "BPM": 100
+      },
+      "Group": 4
+    },
+    "Items": [
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "IsWaveformEnabled": false,
+        "CharacterName": "ゆっくり霊夢 (解)",
+        "Serif": "a",
+        "Decorations": [],
+        "Hatsuon": "あ",
+        "Pronounce": null,
+        "VoiceLength": "00:00:00.1545000",
+        "VoiceCache": "i+kEAGQAT02ZpkrluXN39fQubLs9XVQPers6uoNSOCqHSC0g9Zj4gQN/QwCQ2CdhwNwl6YGCE6DirBSgdwAAbOoJAFRAAMyekT7jJgQAVQytf499r+cwvJ67mbkduU45SAvybEER+UViRIkVvKAY4Kj03pceD+UVHc5uTzJUleQmXrUmhjWw8GrjFE9b5gFeH+ZtNkVx1apwHG/1Q0ekCcH7mLTKv7nc+snM4459JAZ+E51lhtFekIC7V+Go1oNdg3pcY3wq9VQtJcDQXd7bTF3rLgmLM4xkW/RgLXepYwGCEs8o7VCi3bP4XnVXTaO/G4jRnGDUS04VH2JQPWTTdE9Pu0FRacCV1NaJyEHmJ1o0sF720/CAP79OXtMRKWcMFm3Uv8PXmC81PGQ/Vc1EllJajJ8NCd/oLy/lqOjdORQiXvHZo2lYXXaNks9DpCYFzE92XSZO8X4I1rDaty6ktFVUBif5PjSZ6kYKo+huGs71USa3bCge4u9NjVX1jN/evyA7bbf4yoBWPc/Y8UxbPaT4NPi1sEWrjQ8fFpunr6ftawRr+tk2C5p0ih6gfqmD/uOKJQO7DHWTVLbjCYjqn589TsK1GxytLp7EjJMVtZxKv3CgZLYbbvMurAv7SV58ZontlzC/c0ioSG5qfFLahTY8fF/7XWIqDDjeNXet5rLa6waH9KEObhhsMTVrgUiohTYd/Gn82GufvfnOlid5v9Pss+hc8R9scP6O+lV4rFitcgQMYTx0laMLpGsCkgxdQ2rAHTXVTb+AOt15AcLfDH5yXq5Tt2jcE2GKP95exk+d7uh5rJR3KuHiyLdRpYD8ZfRRyUPzkj/TqksEM4Kz9Avj2ivv+NLdBsgi7aHyRsRLevMCfO+dcleOYyd3FWzkH3da7XNq99R7HPPbtZm3w+D4lHaw2/m377q3JESbohqI97/2/062NoSWxVraBepGk/2rvqFw6N6e04MiVLC/ne1ydSR9diAoug4l2NxIr4IDnou8BeI4aGyn0IhHtcStpV8fFBdXmgof+T7SE9EsJLmlUfyGf1jxRlKi28PSk8M4irCIMIuAzedCcv8jpNn7RJkinUSdZSt26euvW/hkEXtd1IUBvJjO/5/e6nIl+q2tisfXhmaAwy0jc6lIB8aK0MX6SyF7eWzmdMZtekzE0vDjgiEuOnALMgvUtDHsbeSr6tl1F4l8WSVptg/16Y1LjUngvA9rnj1/vbe4tiaZ0Y+138eqj2/YCFpFiappgrFBTapXtLdoPTxG3xS2CM6mfSK/+g+5fnN2sL9AVs9VvHPTBuR54y7OfJViwNFIeUvXpwl36zMOZcgtbwVF6r2cpJoH9fr6mdyRmmPdnEFszlviHCeTk8TOCGoNfs3r7J3q5zPc7r/ofcoZ7hDvTtxo3VKvsX6MPjH9ZpQuo+7YsLsr3nWudwmToy7Rn+Xdyh7spHF6B1UY0vU5ErovidJZcEGyRi1WqbTb6f2op+t+EnH4LfkoagdHRquStplosNA953qPGWHyH/qa+sz1Pv3Nsr+YoCyIxpdYu7SudpsdBKs1xNzOGn6TX4FNpFfAs+RdwYeCSs1KidGa5urpm+FL89R7HkL5jPX4MmQl90j3+oiFtR3e/H8Y8vpRTitvs6aVdqy0pbRX/V9WZijYbUvQP9ZIRz/KXyo1mNFFFWumV1j2W7a6bGqzfn1whlVnNmQ+QOiilyHXlAMN12IykTLTnTt78lmIyQ8DM71X6/4WgS1bYas2LLheYeDvoeD0fWJJyFPNHNkSsBO+i6hlHxEXQYN995yvvDDK9OXZP3hSyZuwq/fDNuWI7jXj5tjnAYVfIHlgjTDEWpd1uqAUOBfTFIALocAfEhNzEzpcoBXI1VLZBcEWqpTgEd+cEiKdM4indDJt1xuj7RVehSFlqDAM/ue5P+nmmZ/N9u4yv3YMvqV4RcFKZDAMRPbpNFW7zvO20utIijjeMydmJbTCHt1a0jCEWiweF5cqNTdU5l2pEftK8Xhee1FBr+Y2HOvAh5LHizOwSgFztq4Dk1Z+3KyqvcBYFHzOsCkQF4x1r/WeoCmCk4J3yB5Bau4+vwnNw9JhBMygUh3Hke+tZ/1T6FyeS5wV9F9zoibpk+69qnJSkwZDuJHcu01biodbcznVsgxVvToRXkO7xnjHNQoTeRrWLx5NfIvl9Cnwq6zh2Fz3Mm8p/p/sgO4nnpMJoqmhavbiqo2ZaI67apu7DIWIHSQTNTnW+cyU+wJCkSUzMh9RbORFASC9IpsAgmQjaaTvAH+RTdSb+CngsrcbGuy3+zZ4P1FvKA06C96jfGrugeLQlmTgPfyaOdL13TLahYOdhftEw+AKUOR7549l5Yl2S/vzNzHu46OJd55xwGS6lnWNNos6ET3s7OZUoMnkBc4ztRG+YJ9XmlCT1RrkjQEsYCpjuSffcdGPUnuzUWgjewv9C4VPK2TOAn9DHxmJ1PNkI9VBdqMWAVKakdiNDcP2ER1RCzqDEiM6LIOhMFdyUULJk/pkyAareXxvpbNj00y3lvVPhosvU3Owydhfhp41h9OPZae68I3odOoycDOnClhHPrb1R06jt+FeDCYZR87FK6wpznk4hf6XMYm2mJFFxLnbOhdhAAAAAAAAAAAAAMAA",
+        "Volume": {
+          "Values": [
+            {
+              "Value": 50.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 120
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "AudioEffects": [],
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "Values": [
+            {
+              "Value": 400.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "Values": [
+            {
+              "Value": 100.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "Values": [
+            {
+              "Value": 100.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "IsClippingWithObjectAbove": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "Values": [
+            {
+              "Value": 45.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight2": {
+          "Values": [
+            {
+              "Value": 100.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "LetterSpacing2": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "DisplayInterval": 0.0,
+        "WordWrap": "NoWrap",
+        "MaxWidth": {
+          "Values": [
+            {
+              "Value": 1920.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "BasePoint": "CenterCenter",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FF8B0000",
+        "Bold": false,
+        "Italic": false,
+        "IsDevidedPerCharacter": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": {
+          "$type": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.FaceParameter, YukkuriMovieMaker.Plugin.Tachie.AnimationTachie",
+          "EyeAnimation": "Default",
+          "MouthAnimation": "Default",
+          "Eyebrow": null,
+          "Eye": "C:\\TK\\ゆっくり素材\\霊夢\\目\\目通常.png",
+          "Mouth": "C:\\TK\\ゆっくり素材\\霊夢\\口\\口笑い.png",
+          "Hair": "C:\\TK\\ゆっくり素材\\霊夢\\髪\\霊夢_20200523042023.png",
+          "Complexion": "C:\\TK\\ゆっくり素材\\霊夢\\顔色\\顔.png",
+          "Body": "C:\\TK\\ゆっくり素材\\霊夢\\体\\霊夢(腰).png",
+          "Back1": null,
+          "Back2": null,
+          "Back3": null,
+          "Etc1": "C:\\TK\\ゆっくり素材\\霊夢\\他\\眉通常.png",
+          "Etc2": null,
+          "Etc3": null
+        },
+        "TachieFaceEffects": [],
+        "Group": 0,
+        "Frame": 0,
+        "Layer": 0,
+        "KeyFrames": {
+          "Frames": [],
+          "Count": 0
+        },
+        "Length": 14,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "IsWaveformEnabled": false,
+        "CharacterName": "ゆっくり霊夢 (解)",
+        "Serif": "aaaaaaaaaaaaaaaaaaaa",
+        "Decorations": [],
+        "Hatsuon": "ああああああああああああああああああああ",
+        "Pronounce": null,
+        "VoiceLength": "00:00:01.2677500",
+        "VoiceCache": "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",
+        "Volume": {
+          "Values": [
+            {
+              "Value": 50.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 120
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "AudioEffects": [],
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "Values": [
+            {
+              "Value": 400.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "Values": [
+            {
+              "Value": 100.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "Values": [
+            {
+              "Value": 100.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "IsClippingWithObjectAbove": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "Values": [
+            {
+              "Value": 45.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight2": {
+          "Values": [
+            {
+              "Value": 100.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "LetterSpacing2": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "DisplayInterval": 0.0,
+        "WordWrap": "NoWrap",
+        "MaxWidth": {
+          "Values": [
+            {
+              "Value": 1920.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "BasePoint": "CenterCenter",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FF8B0000",
+        "Bold": false,
+        "Italic": false,
+        "IsDevidedPerCharacter": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": {
+          "$type": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.FaceParameter, YukkuriMovieMaker.Plugin.Tachie.AnimationTachie",
+          "EyeAnimation": "Default",
+          "MouthAnimation": "Default",
+          "Eyebrow": null,
+          "Eye": "C:\\TK\\ゆっくり素材\\霊夢\\目\\目通常.png",
+          "Mouth": "C:\\TK\\ゆっくり素材\\霊夢\\口\\口笑い.png",
+          "Hair": "C:\\TK\\ゆっくり素材\\霊夢\\髪\\霊夢_20200523042023.png",
+          "Complexion": "C:\\TK\\ゆっくり素材\\霊夢\\顔色\\顔.png",
+          "Body": "C:\\TK\\ゆっくり素材\\霊夢\\体\\霊夢(腰).png",
+          "Back1": null,
+          "Back2": null,
+          "Back3": null,
+          "Etc1": "C:\\TK\\ゆっくり素材\\霊夢\\他\\眉通常.png",
+          "Etc2": null,
+          "Etc3": null
+        },
+        "TachieFaceEffects": [],
+        "Group": 0,
+        "Frame": 0,
+        "Layer": 1,
+        "KeyFrames": {
+          "Frames": [],
+          "Count": 0
+        },
+        "Length": 47,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "IsWaveformEnabled": false,
+        "CharacterName": "ゆっくり霊夢 (解)",
+        "Serif": "a",
+        "Decorations": [],
+        "Hatsuon": "あ",
+        "Pronounce": null,
+        "VoiceLength": "00:00:00.1545000",
+        "VoiceCache": "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",
+        "Volume": {
+          "Values": [
+            {
+              "Value": 50.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 120
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "AudioEffects": [],
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "Values": [
+            {
+              "Value": 400.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "Values": [
+            {
+              "Value": 100.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "Values": [
+            {
+              "Value": 100.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "IsClippingWithObjectAbove": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "Values": [
+            {
+              "Value": 45.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight2": {
+          "Values": [
+            {
+              "Value": 100.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "LetterSpacing2": {
+          "Values": [
+            {
+              "Value": 0.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "DisplayInterval": 0.0,
+        "WordWrap": "NoWrap",
+        "MaxWidth": {
+          "Values": [
+            {
+              "Value": 1920.0
+            }
+          ],
+          "Span": 0.0,
+          "AnimationType": "なし"
+        },
+        "BasePoint": "CenterCenter",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FF8B0000",
+        "Bold": false,
+        "Italic": false,
+        "IsDevidedPerCharacter": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": {
+          "$type": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.FaceParameter, YukkuriMovieMaker.Plugin.Tachie.AnimationTachie",
+          "EyeAnimation": "Default",
+          "MouthAnimation": "Default",
+          "Eyebrow": null,
+          "Eye": "C:\\TK\\ゆっくり素材\\霊夢\\目\\目通常.png",
+          "Mouth": "C:\\TK\\ゆっくり素材\\霊夢\\口\\口笑い.png",
+          "Hair": "C:\\TK\\ゆっくり素材\\霊夢\\髪\\霊夢_20200523042023.png",
+          "Complexion": "C:\\TK\\ゆっくり素材\\霊夢\\顔色\\顔.png",
+          "Body": "C:\\TK\\ゆっくり素材\\霊夢\\体\\霊夢(腰).png",
+          "Back1": null,
+          "Back2": null,
+          "Back3": null,
+          "Etc1": "C:\\TK\\ゆっくり素材\\霊夢\\他\\眉通常.png",
+          "Etc2": null,
+          "Etc3": null
+        },
+        "TachieFaceEffects": [],
+        "Group": 0,
+        "Frame": 0,
+        "Layer": 2,
+        "KeyFrames": {
+          "Frames": [],
+          "Count": 0
+        },
+        "Length": 47,
+        "IsLocked": false,
+        "IsHidden": false
+      }
+    ],
+    "LayerSettings": {
+      "Items": []
+    },
+    "CurrentFrame": 26,
+    "Length": 47,
+    "MaxLayer": 2
+  },
+  "Characters": [
+    {
+      "Name": "ゆっくり霊夢 (解)",
+      "GroupName": "解説",
+      "Color": "#FF8B0000",
+      "Layer": 0,
+      "KeyGesture": {
+        "Key": 0,
+        "Modifiers": 2
+      },
+      "Voice": {
+        "API": "AquesTalk",
+        "Arg": "f1"
+      },
+      "Volume": {
+        "Values": [
+          {
+            "Value": 50.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "Pan": {
+        "Values": [
+          {
+            "Value": 0.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "PlaybackRate": 100.0,
+      "VoiceParameter": {
+        "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+        "Speed": 120
+      },
+      "AdditionalTime": 0.3,
+      "VoiceFadeIn": 0.0,
+      "VoiceFadeOut": 0.0,
+      "EchoIsEnabled": false,
+      "EchoInterval": 0.1,
+      "EchoAttenuation": 40.0,
+      "CustomVoiceIsEnabled": false,
+      "CustomVoiceIncludeSubdirectories": false,
+      "CustomVoiceDirectory": "",
+      "CustomVoiceFileName": "",
+      "AudioEffects": [],
+      "IsJimakuVisible": true,
+      "IsJimakuLocked": false,
+      "X": {
+        "Values": [
+          {
+            "Value": 0.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "Y": {
+        "Values": [
+          {
+            "Value": 400.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "Opacity": {
+        "Values": [
+          {
+            "Value": 100.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "Zoom": {
+        "Values": [
+          {
+            "Value": 100.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "Rotation": {
+        "Values": [
+          {
+            "Value": 0.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "JimakuFadeIn": 0.0,
+      "JimakuFadeOut": 0.0,
+      "Blend": "Normal",
+      "IsInverted": false,
+      "IsAlwaysOnTop": false,
+      "IsClippingWithObjectAbove": false,
+      "Font": "メイリオ",
+      "FontSize": {
+        "Values": [
+          {
+            "Value": 45.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "LineHeight2": {
+        "Values": [
+          {
+            "Value": 100.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "LetterSpacing2": {
+        "Values": [
+          {
+            "Value": 0.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "DisplayInterval": 0.0,
+      "WordWrap": "NoWrap",
+      "MaxWidth": {
+        "Values": [
+          {
+            "Value": 1920.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "BasePoint": "CenterCenter",
+      "FontColor": "#FFFFFFFF",
+      "Style": "Border",
+      "StyleColor": "#FF8B0000",
+      "Bold": false,
+      "Italic": false,
+      "IsDevidedPerCharacter": false,
+      "JimakuVideoEffects": [],
+      "TachieType": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.AnimationTachiePlugin, YukkuriMovieMaker.Plugin.Tachie.AnimationTachie, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "TachieCharacterParameter": {
+        "$type": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.CharacterParameter, YukkuriMovieMaker.Plugin.Tachie.AnimationTachie",
+        "Directory": "C:\\TK\\ゆっくり素材\\霊夢",
+        "EyeBlinkStart": 0.0,
+        "EyeBlinkInterval": 0.0,
+        "MouthSensitivity": 100.0
+      },
+      "IsTachieLocked": false,
+      "TachieX": {
+        "Values": [
+          {
+            "Value": -860.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieY": {
+        "Values": [
+          {
+            "Value": 378.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieOpacity": {
+        "Values": [
+          {
+            "Value": 100.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieZoom": {
+        "Values": [
+          {
+            "Value": 100.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieRotation": {
+        "Values": [
+          {
+            "Value": 0.0
+          }
+        ],
+        "Span": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieFadeIn": 0.0,
+      "TachieFadeOut": 0.0,
+      "TachieBlend": "Normal",
+      "TachieIsInverted": true,
+      "TachieIsAlwaysOnTop": false,
+      "TachieIsClippingWithObjectAbove": false,
+      "TachieDefaultItemParameter": {
+        "$type": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.ItemParameter, YukkuriMovieMaker.Plugin.Tachie.AnimationTachie",
+        "IsHiddenWhenNoSpeech": false,
+        "Eyebrow": null,
+        "Eye": "C:\\TK\\ゆっくり素材\\霊夢\\目\\目通常.png",
+        "Mouth": "C:\\TK\\ゆっくり素材\\霊夢\\口\\口微笑.png",
+        "Hair": "C:\\TK\\ゆっくり素材\\霊夢\\髪\\霊夢_20200523042023.png",
+        "Complexion": "C:\\TK\\ゆっくり素材\\霊夢\\顔色\\顔.png",
+        "Body": "C:\\TK\\ゆっくり素材\\霊夢\\体\\霊夢(腰).png",
+        "Back1": null,
+        "Back2": null,
+        "Back3": null,
+        "Etc1": "C:\\TK\\ゆっくり素材\\霊夢\\他\\眉通常.png",
+        "Etc2": null,
+        "Etc3": null
+      },
+      "TachieItemVideoEffects": [],
+      "TachieDefaultFaceParameter": {
+        "$type": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.FaceParameter, YukkuriMovieMaker.Plugin.Tachie.AnimationTachie",
+        "EyeAnimation": "Default",
+        "MouthAnimation": "Default",
+        "Eyebrow": null,
+        "Eye": "C:\\TK\\ゆっくり素材\\霊夢\\目\\目通常.png",
+        "Mouth": "C:\\TK\\ゆっくり素材\\霊夢\\口\\口笑い.png",
+        "Hair": "C:\\TK\\ゆっくり素材\\霊夢\\髪\\霊夢_20200523042023.png",
+        "Complexion": "C:\\TK\\ゆっくり素材\\霊夢\\顔色\\顔.png",
+        "Body": "C:\\TK\\ゆっくり素材\\霊夢\\体\\霊夢(腰).png",
+        "Back1": null,
+        "Back2": null,
+        "Back3": null,
+        "Etc1": "C:\\TK\\ゆっくり素材\\霊夢\\他\\眉通常.png",
+        "Etc2": null,
+        "Etc3": null
+      },
+      "TachieDefaultFaceEffects": [],
+      "AdditionalForegroundTemplateName": null,
+      "AdditionalBackgroundTemplateName": null,
+      "VoiceItemLength": 300,
+      "TachieItemLength": 300,
+      "VoiceItemKeyFrames": {
+        "Frames": [],
+        "Count": 0
+      },
+      "TachieItemKeyFrames": {
+        "Frames": [],
+        "Count": 0
+      }
+    }
+  ],
+  "CollapsedGroups": []
+}
