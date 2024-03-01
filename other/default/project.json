@@ -1,0 +1,38 @@
+﻿{
+  "FilePath": "C:\\Users\\tusima kento\\Documents\\GitHub\\YmmpPython\\other\\default\\project.ymmp",
+  "Timeline": {
+    "VideoInfo": {
+      "FPS": 30,
+      "Hz": 48000,
+      "Width": 1920,
+      "Height": 1080
+    },
+    "VerticalLine": {
+      "IsEnabled": false,
+      "StartFrame": 0,
+      "LineType": "BPM",
+      "Line": {
+        "$type": "YukkuriMovieMaker.Project.VerticalBPMLine, YukkuriMovieMaker.Plugin",
+        "BPM": 100
+      },
+      "Group": 4
+    },
+    "Items": [],
+    "LayerSettings": {
+      "Items": [
+        {
+          "Layer": 7,
+          "Label": null,
+          "Color": "#00FFFFFF",
+          "IsHidden": true,
+          "Volume": 100.0
+        }
+      ]
+    },
+    "CurrentFrame": 0,
+    "Length": 1,
+    "MaxLayer": 0
+  },
+  "Characters": [],
+  "CollapsedGroups": []
+}
