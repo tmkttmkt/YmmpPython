@@ -1,0 +1,50 @@
+﻿{
+  "FilePath": "C:\\TK\\github\\YmmpPython\\startup.ymmp",
+  "SelectedTimelineIndex": 0,
+  "Timelines": [
+    {
+      "ID": "7e211a50-cbb8-4b9d-86d0-6b6ffc68ac93",
+      "Name": "メイン",
+      "VideoInfo": {
+        "FPS": 60,
+        "Hz": 48000,
+        "Width": 2560,
+        "Height": 1440
+      },
+      "VerticalLine": {
+        "IsEnabled": false,
+        "StartFrame": 0,
+        "LineType": "BPM",
+        "Line": {
+          "$type": "YukkuriMovieMaker.Project.VerticalBPMLine, YukkuriMovieMaker.Plugin",
+          "BPM": 100.0
+        },
+        "Group": 4
+      },
+      "Items": [],
+      "LayerSettings": {
+        "Items": [
+          {
+            "Layer": 21,
+            "Label": null,
+            "Color": "#00FFFFFF",
+            "IsHidden": false,
+            "Volume": 100.0
+          },
+          {
+            "Layer": 17,
+            "Label": null,
+            "Color": "#00FFFFFF",
+            "IsHidden": false,
+            "Volume": 100.0
+          }
+        ]
+      },
+      "CurrentFrame": 0,
+      "Length": 1,
+      "MaxLayer": 0
+    }
+  ],
+  "Characters": [],
+  "CollapsedGroups": []
+}

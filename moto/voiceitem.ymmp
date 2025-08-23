@@ -1,0 +1,95 @@
+﻿{
+  "FilePath": "C:\\TK\\github\\YmmpPython\\moto\\voiceitem.ymmp",
+  "SelectedTimelineIndex": 0,
+  "Timelines": [
+    {
+      "ID": "7e211a50-cbb8-4b9d-86d0-6b6ffc68ac93",
+      "Name": "メイン",
+      "VideoInfo": {
+        "FPS": 60,
+        "Hz": 48000,
+        "Width": 2560,
+        "Height": 1440
+      },
+      "VerticalLine": {
+        "IsEnabled": false,
+        "StartFrame": 0,
+        "LineType": "BPM",
+        "Line": {
+          "$type": "YukkuriMovieMaker.Project.VerticalBPMLine, YukkuriMovieMaker.Plugin",
+          "BPM": 100.0
+        },
+        "Group": 4
+      },
+      "Items": [
+        {
+          "$type": "YukkuriMovieMaker.Project.Items.AudioItem, YukkuriMovieMaker",
+          "IsWaveformEnabled": false,
+          "FilePath": "C:\\TK\\github\\music\\wav\\kyudesu.wav",
+          "AudioTrackIndex": 0,
+          "Volume": {
+            "Values": [
+              {
+                "Value": 50.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Pan": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "PlaybackRate": 100.0,
+          "ContentOffset": "00:00:00",
+          "FadeIn": 0.0,
+          "FadeOut": 0.0,
+          "IsLooped": false,
+          "EchoIsEnabled": false,
+          "EchoInterval": 0.1,
+          "EchoAttenuation": 40.0,
+          "AudioEffects": [],
+          "Group": 0,
+          "Frame": 94,
+          "Layer": 0,
+          "KeyFrames": {
+            "Frames": [],
+            "Count": 0
+          },
+          "Length": 240,
+          "Remark": "",
+          "IsLocked": false,
+          "IsHidden": false
+        }
+      ],
+      "LayerSettings": {
+        "Items": [
+          {
+            "Layer": 21,
+            "Label": null,
+            "Color": "#00FFFFFF",
+            "IsHidden": false,
+            "Volume": 100.0
+          },
+          {
+            "Layer": 17,
+            "Label": null,
+            "Color": "#00FFFFFF",
+            "IsHidden": false,
+            "Volume": 100.0
+          }
+        ]
+      },
+      "CurrentFrame": 94,
+      "Length": 334,
+      "MaxLayer": 0
+    }
+  ],
+  "Characters": [],
+  "CollapsedGroups": []
+}

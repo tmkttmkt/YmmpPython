@@ -1,0 +1,155 @@
+﻿{
+  "FilePath": "C:\\TK\\github\\YmmpPython\\moto\\movieitem.ymmp",
+  "SelectedTimelineIndex": 0,
+  "Timelines": [
+    {
+      "ID": "7e211a50-cbb8-4b9d-86d0-6b6ffc68ac93",
+      "Name": "メイン",
+      "VideoInfo": {
+        "FPS": 60,
+        "Hz": 48000,
+        "Width": 2560,
+        "Height": 1440
+      },
+      "VerticalLine": {
+        "IsEnabled": false,
+        "StartFrame": 0,
+        "LineType": "BPM",
+        "Line": {
+          "$type": "YukkuriMovieMaker.Project.VerticalBPMLine, YukkuriMovieMaker.Plugin",
+          "BPM": 100.0
+        },
+        "Group": 4
+      },
+      "Items": [
+        {
+          "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
+          "IsWaveformEnabled": false,
+          "FilePath": "C:\\Users\\kema2\\Videos\\Captures\\Google 翻訳 および他 4 ページ - 学校 - Microsoft​ Edge 2025-07-11 10-55-17.mp4",
+          "AudioTrackIndex": 0,
+          "Volume": {
+            "Values": [
+              {
+                "Value": 50.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Pan": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "PlaybackRate": 100.0,
+          "ContentOffset": "00:00:00",
+          "IsLooped": false,
+          "EchoIsEnabled": false,
+          "EchoInterval": 0.1,
+          "EchoAttenuation": 40.0,
+          "AudioEffects": [],
+          "X": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Y": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Z": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Opacity": {
+            "Values": [
+              {
+                "Value": 100.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Zoom": {
+            "Values": [
+              {
+                "Value": 100.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "Rotation": {
+            "Values": [
+              {
+                "Value": 0.0
+              }
+            ],
+            "Span": 0.0,
+            "AnimationType": "なし"
+          },
+          "FadeIn": 0.0,
+          "FadeOut": 0.0,
+          "Blend": "Normal",
+          "IsInverted": false,
+          "IsClippingWithObjectAbove": false,
+          "IsAlwaysOnTop": false,
+          "IsZOrderEnabled": false,
+          "VideoEffects": [],
+          "Group": 0,
+          "Frame": 88,
+          "Layer": 0,
+          "KeyFrames": {
+            "Frames": [],
+            "Count": 0
+          },
+          "Length": 5670,
+          "Remark": "",
+          "IsLocked": false,
+          "IsHidden": false
+        }
+      ],
+      "LayerSettings": {
+        "Items": [
+          {
+            "Layer": 21,
+            "Label": null,
+            "Color": "#00FFFFFF",
+            "IsHidden": false,
+            "Volume": 100.0
+          },
+          {
+            "Layer": 17,
+            "Label": null,
+            "Color": "#00FFFFFF",
+            "IsHidden": false,
+            "Volume": 100.0
+          }
+        ]
+      },
+      "CurrentFrame": 88,
+      "Length": 5758,
+      "MaxLayer": 0
+    }
+  ],
+  "Characters": [],
+  "CollapsedGroups": []
+}
